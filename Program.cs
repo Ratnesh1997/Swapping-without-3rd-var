@@ -11,7 +11,7 @@ namespace Swapping_without_3rd_var
         static void Main(string[] args)
         {
 
-        
+            string  r = "rahul";
         int x = 10, y = 5;
 
             Console.WriteLine("program to swap two number without using third variable");
